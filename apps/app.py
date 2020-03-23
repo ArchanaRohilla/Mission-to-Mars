@@ -18,12 +18,14 @@ def index():
     return render_template("index.html", mars=mars)
 
 # 2.flask route for scraping 
-@app.route("/scrape"):
+@app.route("/scrape")
 def scrape():
     mars = mongo.db.mars
     mars_data = scraping.scrape_all()
     mars.update({}, mars_data, upsert=True)
-    return "Scraping Successful!"
+    # return render_template("index.html", mars=mars)
+    return render_template('Success.html')
+    #return "Scraping Successful!"
 
 #run the flask app
 if __name__ == "__main__":
