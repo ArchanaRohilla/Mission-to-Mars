@@ -12,3 +12,8 @@ Mars planet from different NASA/gov websites.The images of four Mars Hemispheres
 also been included in the web page.
 
 ## Software
+HTML, BeautifulSoup, Splinter, MongoDB, Flask, CSS, Bootstrap 
+
+## Summary of Analysis
+A wed page has been designed using the live scrapped data about Mars planet from different NASA/gov websites.
+The images of four Mars Hemispheres have also been included in the web page.
