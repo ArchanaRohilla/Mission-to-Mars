@@ -35,10 +35,10 @@ The images of four Mars Hemispheres have also been included in the web page.
 
 ![alt text](images/web1.png)
 
-![alt text](images/cerberus_enhanced.png)
+![alt text](images/cerberus_enhanced.jpg)
 
-![alt text](images/schiaparelli_enhanced.png)
+![alt text](images/schiaparelli_enhanced.jpg)
 
-![alt text](images/syrtis_major_enhanced.png)
+![alt text](images/syrtis_major_enhanced.jpg)
 
-![alt text](images/valles_marineris_enhanced.png)
+![alt text](images/valles_marineris_enhanced.jpg)
