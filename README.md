@@ -25,6 +25,12 @@ The images of four Mars Hemispheres have also been included in the web page.
 - 'cd' into the directory that holds the repo.
 - Run the command "python scraping.py".
 - Run the command "python app.py".
-- Open your browser and go to "http://localhost:5000/".
+- Open your browser and go to "http://127.0.0.1:5000/".
 - Click the "Scrap New Data" Button on the web page. It will take about a few moments for the scraping to complete.
 - It will lead you to another web page, click "Get To Index" Button to see updated data which will be displayed on the webpage.
+
+
+## Webpage
+
+
+![alt text](images/web1.png)
