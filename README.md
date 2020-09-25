@@ -14,7 +14,7 @@ also been included in the web page.
 ## Tools
 HTML, BeautifulSoup, Splinter, MongoDB, Flask, CSS, Bootstrap 
 
-## Summary of Analysis
+## Summary 
 A wed page has been designed using the live scrapped data about Mars planet from different NASA/gov websites.
 The images of four Mars Hemispheres have also been included in the web page.
 
@@ -34,3 +34,11 @@ The images of four Mars Hemispheres have also been included in the web page.
 
 
 ![alt text](images/web1.png)
+
+![alt text](images/cerberus_enhanced.png)
+
+![alt text](images/schiaparelli_enhanced.png)
+
+![alt text](images/syrtis_major_enhanced.png)
+
+![alt text](images/valles_marineris_enhanced.png)
